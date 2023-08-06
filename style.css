@@ -407,7 +407,7 @@ a img.aligncenter {
 }
 
 .header_style_01 {
-    background-color: rgba(255, 255, 255);
+    background-color: rgb(255,255, 255);
     display: block;
     left: 0;
     padding: 20px 40px !important;
@@ -557,7 +557,7 @@ li.social-links a {
 }
 
 .slide-text h1 span{
-	color: #fd6802;
+	color: #428115;
 }
 
 .slide-text h2 {
@@ -2870,7 +2870,7 @@ select.mobile-device {
 	background: url(uploads/inner-bg.jpg);
 	padding: 120px 0;	
 	background-clip: initial;
-	background-color: rgba(0, 0, 0, 0);
+	background-color: rgba(198, 39, 87, 0);
 	background-origin: initial;
 	background-position: center center;
 	background-repeat: no-repeat;
@@ -2890,7 +2890,180 @@ select.mobile-device {
 	z-index: -1;
 	background: rgba(34, 34, 34, 0.4);
 }
+.banner-bg-2{
+	background: url(uploads/bim1.jpg);
+	padding: 120px 0;	
+	background-clip: initial;
+	background-color: rgba(198, 39, 87, 0);
+	background-origin: initial;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+	z-index: 0;
+}
 
+.banner-bg-2::before{
+	content: "";
+	display: inline-block;
+	height: 100%;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 100%;
+	z-index: -1;
+	background: rgba(34, 34, 34, 0.4);
+}
+.banner-bg-3{
+	background: url(uploads/bim2.jpg);
+	padding: 120px 0;	
+	background-clip: initial;
+	background-color: rgba(198, 39, 87, 0);
+	background-origin: initial;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+	z-index: 0;
+}
+
+.banner-bg-3::before{
+	content: "";
+	display: inline-block;
+	height: 100%;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 100%;
+	z-index: -1;
+	background: rgba(34, 34, 34, 0.4);
+}
+.banner-bg-4{
+	background: url(uploads/inner-bgportel.jpg);
+	padding: 120px 0;	
+	background-clip: initial;
+	background-color: rgba(198, 39, 87, 0);
+	background-origin: initial;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+	z-index: 0;
+}
+
+.banner-bg-4::before{
+	content: "";
+	display: inline-block;
+	height: 100%;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 100%;
+	z-index: -1;
+	background: rgba(34, 34, 34, 0.4);
+}
+.banner-bg-5{
+	background: url(uploads/bim4.jpg);
+	padding: 120px 0;	
+	background-clip: initial;
+	background-color: rgba(198, 39, 87, 0);
+	background-origin: initial;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+	z-index: 0;
+}
+
+.banner-bg-5::before{
+	content: "";
+	display: inline-block;
+	height: 100%;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 100%;
+	z-index: -1;
+	background: rgba(34, 34, 34, 0.4);
+}
+.banner-bg-9{
+	background: url(uploads/inner-bgg.jpg);
+	padding: 120px 0;	
+	background-clip: initial;
+	background-color: rgba(198, 39, 87, 0);
+	background-origin: initial;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+	z-index: 0;
+}
+
+.banner-bg-9::before{
+	content: "";
+	display: inline-block;
+	height: 100%;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 100%;
+	z-index: -1;
+	background: rgba(34, 34, 34, 0.4);
+}
+.banner{
+	position: relative;
+}
+.banner-bg-10{
+	background: url(uploads/innerbim-gb.jpg);
+	padding: 120px 0;	
+	background-clip: initial;
+	background-color: rgba(198, 39, 87, 0);
+	background-origin: initial;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+	z-index: 0;
+}
+.banner-bg-10::before{
+	content: "";
+	display: inline-block;
+	height: 100%;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 100%;
+	z-index: -1;
+	background: rgba(34, 34, 34, 0.4);
+}
+.banner{
+	position: relative;
+}
+
+.banner-bg-11{
+	background: url(uploads/giscad-bg11.png);
+	padding: 120px 0;	
+	background-clip: initial;
+	background-color: rgba(198, 39, 87, 0);
+	background-origin: initial;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+	z-index: 0;
+}
+
+.banner-bg-10::before{
+	content: "";
+	display: inline-block;
+	height: 100%;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 100%;
+	z-index: -1;
+	background: rgba(34, 34, 34, 0.4);
+}
 .banner{
 	position: relative;
 }
